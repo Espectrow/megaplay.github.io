@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<head>
+<link rel="stylesheet" id="css" type="text/css" href="style/jurrack.css">
+
+  <script src="js/bind_polyfill.js"></script>
+  <script src="js/classlist_polyfill.js"></script>
+  <script src="js/animframe_polyfill.js"></script>
+  <script src="js/keyboard_input_manager.js"></script>
+  <script src="js/html_actuator.js"></script>
+  <script src="js/grid.js"></script>
+  <script src="js/tile.js"></script>
+  <script src="js/local_storage_manager.js"></script>
+  <script src="js/game_manager.js"></script>
+  <script src="js/application.js"></script>
+</head>
+
+<body>
+<audio id="sound_card" src="style/sound/flip.wav"></audio>
+<audio id="sound_gameover" src="style/sound/destroyed.wav"></audio>
+<audio id="sound_gamewin" src="style/sound/specialsummon.wav"></audio>
+
+  <div class="container">
+    <div class="heading">
+    <h1 class="title" style="margin-top: 25px;">Yugi-oh! 2048</h1>
+      <div class="scores-container">
+        <div class="score-container">0</div>
+        <div class="best-container">0</div>
+      </div>
+    </div>
+
+    <div class="above-game">
+      <p class="game-intro">
+¡Úne Las Imagenes y  <strong>Diviertete!</strong></p>
+      <a class="restart-button">Juego Nuevo</a>
+    </div>
+    <div class="game-container">
+      <div class="game-message">
+        <p></p>
+        <div class="lower">
+	        <a class="keep-playing-button">Sigue Jugando</a>
+          <a class="retry-button">Intentar Nuevamente</a>
+        </div>
+      </div>
+      <div class="grid-container">
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+      </div>
+
+      <div class="tile-container">
+      </div>
+    </div>
+  </div>
+</body>
