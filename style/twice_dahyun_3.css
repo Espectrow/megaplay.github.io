@@ -347,45 +347,45 @@ hr {
 	 }
   .tile.tile-2 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/2.jpg);
+	background-image: url(items/twice/dahyun/3/2.gif);
 	background-position: center;
 	background-size:contain;
 	background-repeat:no-repeat;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/4.jpg);
+	background-image: url(items/twice/dahyun/3/4.gif);
 	background-position: center;
 	background-size:contain;
 	background-repeat:no-repeat;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/8.jpg);
+	background-image: url(items/twice/dahyun/3/8.gif);
 	background-position: center;
 	background-size:contain;
 	background-repeat:no-repeat; }
   .tile.tile-16 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/16.jpg);
+	background-image: url(items/twice/dahyun/3/16.gif);
 	background-position: center;
 	background-size:contain;
 	background-repeat:no-repeat;; }
   .tile.tile-32 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/32.jpg);
+	background-image: url(items/twice/dahyun/3/32.gif);
 	background-position: center;
 	background-size:contain;
 	background-repeat:no-repeat; }
   .tile.tile-64 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/64.jpg);
+	background-image: url(items/twice/dahyun/3/64.gif);
 	background-position: center;
 	background-size:contain;
 	background-repeat:no-repeat; }
   .tile.tile-128 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/128.jpg);
+	background-image: url(items/twice/dahyun/3/128.gif);
 	background-position: center;
 	background-size:contain;
 	background-repeat:no-repeat;;
@@ -396,7 +396,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/256.jpg);
+	background-image: url(items/twice/dahyun/3/256.gif);
 	background-position: center;
 	background-size:contain;
 	background-repeat:no-repeat;;
@@ -407,7 +407,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/512.jpg);
+	background-image: url(items/twice/dahyun/3/512.gif);
 	background-position: center;
 	background-size:contain;
 	background-repeat:no-repeat;
@@ -418,7 +418,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/1024.jpg);
+	background-image: url(items/twice/dahyun/3/1024.gif);
 	background-position: center;
 	background-size:contain;
 	background-repeat:no-repeat;
@@ -429,7 +429,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/2048.jpg);
+	background-image: url(items/twice/dahyun/3/2048.gif);
 	background-position: center;
 	background-size:contain;
 	background-repeat:no-repeat;
@@ -440,7 +440,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-4096 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/4096.jpg) !important;
+	background-image: url(items/twice/dahyun/3/4096.gif) !important;
 	background-position: center !important;
 	background-size:contain !important;
 	background-repeat:no-repeat !important;
@@ -451,7 +451,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-8192 .tile-inner {
 	color:transparent;
-	background-image: url(items/twice/dahyun/3/8192.jpg) !important;
+	background-image: url(items/twice/dahyun/3/8192.gif) !important;
 	background-position: center !important;
 	background-size:contain !important;
 	background-repeat:no-repeat !important;
